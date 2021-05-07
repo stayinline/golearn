@@ -36,7 +36,7 @@ func main() {
 
 	//也可以多个使用
 	g, h := 123, false
-	print(g)
-	print(h)
+	println(g)
+	println(h)
 
 }

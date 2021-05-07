@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="" />
+    <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Solution.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startDemo/Part2Variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/startDemo/Part2Variables.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -36,8 +45,10 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1sADUK9cFobD5ixuWzolIaAHKbi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -71,21 +82,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Part5Switch.go">
+  <component name="RunManager" selected="Go Build.go build Solution.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="golearn" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="startDemo" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/startDemo/Constants.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -121,6 +124,14 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/LeetCode/Solution.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="golearn" />
       <working_directory value="$PROJECT_DIR$" />
@@ -133,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Solution.go" />
+        <item itemvalue="Go Build.go build Part2Variables.go" />
         <item itemvalue="Go Build.go build Part5Switch.go" />
         <item itemvalue="Go Build.go build Part4For.go" />
-        <item itemvalue="Go Build.go build Part2Variables.go" />
         <item itemvalue="Go Build.go build Part1HelloWorld.go" />
-        <item itemvalue="Go Build.go build Constants.go" />
       </list>
     </recent_temporary>
   </component>
@@ -155,11 +166,22 @@
       <option name="presentableId" value="Default" />
       <updated>1620306514049</updated>
       <workItem from="1620306515719" duration="1089000" />
-      <workItem from="1620307933666" duration="6059000" />
+      <workItem from="1620307933666" duration="10207000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
