@@ -76,7 +76,7 @@ func pointerOfPointer() {
 	ptr = &i
 	pPtr = &ptr
 	ppPtr = &pPtr
-	fmt.Printf("变量 i 的值= %d, *ptr= %d\n", i, *ptr)       //变量 i 的值= 100, *ptr= 100
-	fmt.Printf("变量 i 的值= %d, *pPtr= %d\n", i, **pPtr)    //变量 i 的值= 100, *pPtr= 100
-	fmt.Printf("变量 i 的值= %d, *ppPtr= %d\n", i, ***ppPtr) //变量 i 的值= 100, *ppPtr= 100
+	fmt.Printf("变量 i 的值= %d, *ptr= %d\n", i, *ptr)         //变量 i 的值= 100, *ptr= 100
+	fmt.Printf("变量 i 的值= %d, **pPtr= %d\n", i, **pPtr)     //变量 i 的值= 100, *pPtr= 100
+	fmt.Printf("变量 i 的值= %d, ***ppPtr= %d\n", i, ***ppPtr) //变量 i 的值= 100, *ppPtr= 100
 }

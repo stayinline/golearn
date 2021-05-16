@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/startDemo/Part6Func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startDemo/Part7Array.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startDemo/Part8Pointer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startDemo/PrintUtils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startDemo/Part10Slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startDemo/Part9Struct.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startDemo/Part8Pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/startDemo/Part8Pointer.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +66,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/startDemo" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Part8Pointer.go">
+  <component name="RunManager" selected="Go Build.go build Part10Slice.go (1)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="golearn" />
       <working_directory value="$PROJECT_DIR$" />
@@ -92,19 +92,27 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Part6Func.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="startDemo" />
+    <configuration name="go build Case5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/startDemo/Part6Func.go" />
+      <filePath value="$PROJECT_DIR$/LeetCode/Case5.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Part7Array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Part10Slice.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="startDemo" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/startDemo/Part7Array.go" />
+      <filePath value="$PROJECT_DIR$/startDemo/Part10Slice.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Part10Slice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Part10Slice.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -116,19 +124,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build PrintUtils.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Part9Struct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="startDemo" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/startDemo/PrintUtils.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/Solution.go" />
+      <filePath value="$PROJECT_DIR$/startDemo/Part9Struct.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Part10Slice.go (1)" />
+        <item itemvalue="Go Build.go build Part10Slice.go" />
+        <item itemvalue="Go Build.go build Part9Struct.go" />
+        <item itemvalue="Go Build.go build Case5.go" />
         <item itemvalue="Go Build.go build Part8Pointer.go" />
-        <item itemvalue="Go Build.go build PrintUtils.go" />
-        <item itemvalue="Go Build.go build Part7Array.go" />
-        <item itemvalue="Go Build.go build Part6Func.go" />
-        <item itemvalue="Go Build.go build Solution.go" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,7 @@
       <updated>1620306514049</updated>
       <workItem from="1620306515719" duration="1089000" />
       <workItem from="1620307933666" duration="11734000" />
-      <workItem from="1620993007788" duration="6590000" />
+      <workItem from="1620993007788" duration="15735000" />
     </task>
     <servers />
   </component>
@@ -186,5 +186,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/LeetCode/Case5.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
