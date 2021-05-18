@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case19.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case11.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startDemo/Part16Concurrent.go" beforeDir="false" afterPath="$PROJECT_DIR$/startDemo/Part16Concurrent.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Part16Concurrent.go">
+  <component name="RunManager" selected="Go Build.go build Case11.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="golearn" />
       <working_directory value="$PROJECT_DIR$" />
@@ -90,11 +89,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Part11Range.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="startDemo" />
+    <configuration name="go build Case11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/startDemo/Part11Range.go" />
+      <filePath value="$PROJECT_DIR$/LeetCode/Case11.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Case11.go" />
         <item itemvalue="Go Build.go build Part16Concurrent.go" />
         <item itemvalue="Go Build.go build Part14Interface.go" />
         <item itemvalue="Go Build.go build Part13TypeTransfer.go" />
         <item itemvalue="Go Build.go build Part12Map.go" />
-        <item itemvalue="Go Build.go build Part11Range.go" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +167,7 @@
       <workItem from="1620993007788" duration="22466000" />
       <workItem from="1621251145221" duration="4331000" />
       <workItem from="1621313646808" duration="2735000" />
+      <workItem from="1621342197754" duration="2267000" />
     </task>
     <servers />
   </component>
