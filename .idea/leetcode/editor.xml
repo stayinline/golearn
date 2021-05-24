@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[104]二叉树的最大深度.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[104]二叉树的最大深度.go" />
+              <option name="questionId" value="104" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[104]二叉树的最大深度.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[104]二叉树的最大深度.java" />
+              <option name="questionId" value="104" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[22]括号生成.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[22]括号生成.go" />
+              <option name="questionId" value="22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[22]括号生成.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[22]括号生成.java" />
+              <option name="questionId" value="22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[31]下一个排列.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[31]下一个排列.go" />
+              <option name="questionId" value="31" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[56]合并区间.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../xdf_gitlab/lean-demo/leetcode_plugin/leetcode/editor/cn/[56]合并区间.go" />
+              <option name="questionId" value="56" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
