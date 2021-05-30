@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case155.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case22.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case124.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Case11.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Case11.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +183,7 @@
       <workItem from="1622116259775" duration="2377000" />
       <workItem from="1622213899313" duration="1398000" />
       <workItem from="1622258389479" duration="36000" />
-      <workItem from="1622271171945" duration="7254000" />
+      <workItem from="1622271171945" duration="11402000" />
     </task>
     <servers />
   </component>
