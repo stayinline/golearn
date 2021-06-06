@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case102.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case312.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case98.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/java/Case102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/java/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Case312.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Case312.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Case98.go">
+  <component name="RunManager" selected="Go Build.go build Case312.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="golearn" />
       <working_directory value="$PROJECT_DIR$" />
@@ -151,8 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Case98.go" />
         <item itemvalue="Go Build.go build Case312.go" />
+        <item itemvalue="Go Build.go build Case98.go" />
         <item itemvalue="Go Build.go build Case22.go" />
         <item itemvalue="Go Build.go build Case169.go" />
         <item itemvalue="Go Build.go build Case283.go" />
@@ -193,7 +187,7 @@
       <workItem from="1622634661691" duration="1629000" />
       <workItem from="1622696789648" duration="2428000" />
       <workItem from="1622808916090" duration="2673000" />
-      <workItem from="1622820162152" duration="1078000" />
+      <workItem from="1622820162152" duration="3262000" />
     </task>
     <servers />
   </component>
