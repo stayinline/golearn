@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case139.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case148.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Case312.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Case312.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
-        <option value="Go Application" />
         <option value="Class" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -83,13 +84,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Case312.go">
+  <component name="RunManager" selected="Go Build.go build Case139.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="golearn" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Case139.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/LeetCode/Case139.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -106,14 +115,6 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/LeetCode/Case22.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Case283.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/Case283.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Case139.go" />
         <item itemvalue="Go Build.go build Case312.go" />
         <item itemvalue="Go Build.go build Case98.go" />
         <item itemvalue="Go Build.go build Case22.go" />
         <item itemvalue="Go Build.go build Case169.go" />
-        <item itemvalue="Go Build.go build Case283.go" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +188,9 @@
       <workItem from="1622634661691" duration="1629000" />
       <workItem from="1622696789648" duration="2428000" />
       <workItem from="1622808916090" duration="2673000" />
-      <workItem from="1622820162152" duration="3262000" />
+      <workItem from="1622820162152" duration="4556000" />
+      <workItem from="1623044792534" duration="1806000" />
+      <workItem from="1623131080256" duration="3536000" />
     </task>
     <servers />
   </component>
