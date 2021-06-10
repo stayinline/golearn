@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case139.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case148.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
-        <option value="Class" />
         <option value="Go Application" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -191,6 +187,7 @@
       <workItem from="1622820162152" duration="4556000" />
       <workItem from="1623044792534" duration="1806000" />
       <workItem from="1623131080256" duration="3536000" />
+      <workItem from="1623206560578" duration="2739000" />
     </task>
     <servers />
   </component>
