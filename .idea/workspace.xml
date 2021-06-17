@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case128.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case200.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case215.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case239.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case301.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/java/Case215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/java/Case239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/java/Case347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case494.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case560.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Case215">
+  <component name="RunManager" selected="Go Build.go build Case560.go">
     <configuration name="Case215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Case215" />
       <module name="LeetCode" />
@@ -114,14 +108,6 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Case128.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/Case128.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build Case239.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -130,11 +116,19 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Case64.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Case494.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/Case64.go" />
+      <filePath value="$PROJECT_DIR$/LeetCode/Case494.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Case560.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/LeetCode/Case560.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -150,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Case560.go" />
+        <item itemvalue="Go Build.go build Case494.go" />
         <item itemvalue="Application.Case215" />
         <item itemvalue="Application.Case347" />
         <item itemvalue="Go Build.go build Case239.go" />
-        <item itemvalue="Go Build.go build Case128.go" />
-        <item itemvalue="Go Build.go build Case64.go" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +194,10 @@
       <workItem from="1623388400010" duration="2081000" />
       <workItem from="1623481460024" duration="5817000" />
       <workItem from="1623572922706" duration="4956000" />
-      <workItem from="1623756085971" duration="1226000" />
+      <workItem from="1623756085971" duration="1560000" />
+      <workItem from="1623821843170" duration="3829000" />
+      <workItem from="1623902238343" duration="596000" />
+      <workItem from="1623922847114" duration="1487000" />
     </task>
     <servers />
   </component>
