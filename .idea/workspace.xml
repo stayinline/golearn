@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case494.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case560.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case416.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,7 +196,8 @@
       <workItem from="1623756085971" duration="1560000" />
       <workItem from="1623821843170" duration="3829000" />
       <workItem from="1623902238343" duration="596000" />
-      <workItem from="1623922847114" duration="1487000" />
+      <workItem from="1623922847114" duration="1780000" />
+      <workItem from="1624006201319" duration="334000" />
     </task>
     <servers />
   </component>
