@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ae3df9-0387-4c60-b85f-84531a0f82ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Case416.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Case221.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +62,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.28303748" />
   </component>
   <component name="RecentsManager">
@@ -83,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Case560.go">
+  <component name="RunManager" selected="Go Build.go build Case279.go">
     <configuration name="Case215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Case215" />
       <module name="LeetCode" />
@@ -107,11 +107,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Case239.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Case279.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/Case239.go" />
+      <filePath value="$PROJECT_DIR$/LeetCode/Case279.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Case279.go" />
         <item itemvalue="Go Build.go build Case560.go" />
         <item itemvalue="Go Build.go build Case494.go" />
         <item itemvalue="Application.Case215" />
         <item itemvalue="Application.Case347" />
-        <item itemvalue="Go Build.go build Case239.go" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +198,8 @@
       <workItem from="1623902238343" duration="596000" />
       <workItem from="1623922847114" duration="1780000" />
       <workItem from="1624006201319" duration="334000" />
+      <workItem from="1624019911096" duration="6983000" />
+      <workItem from="1624246103730" duration="4153000" />
     </task>
     <servers />
   </component>
