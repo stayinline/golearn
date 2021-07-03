@@ -1,16 +1,5 @@
 package main
 
-func canPartition(nums []int) bool {
-	sum := 0
-	for i := 0; i < len(nums); i++ {
-		sum += nums[i]
-	}
-
-	for i := 0; i < len(nums); i++ {
-
-	}
-
-}
 func canPartition2(nums []int) bool {
 	n := len(nums)
 	if n < 2 {
